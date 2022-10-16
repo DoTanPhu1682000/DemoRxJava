@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoRxJava</string>
+    <string name="name">Name:</string>
+    <string name="has_issues">Has issues:</string>
+    <string name="age">Age:</string>
+    <string name="devtraining_needit_newyork">devtraining-needit-newyork</string>
+    <string name="_22">22</string>
+</resources>
